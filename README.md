@@ -2,7 +2,7 @@
 
 ## Deployed Site
  
-(https://west-korea.github.io/Michael-Ha-portfolio/)
+(https://dbnhq.github.io/Michael-Ha-portfolio/)
 
 ## User Story
 
